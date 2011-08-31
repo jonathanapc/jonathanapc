@@ -1,1 +1,1 @@
-var RobbinsSux = Majorly
+var RobbinsSux = "Majorly";
